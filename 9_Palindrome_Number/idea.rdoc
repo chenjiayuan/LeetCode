@@ -1,6 +1,7 @@
-== ideas
 https://leetcode.com/problems/palindrome-number/
+Determine whether an integer is a palindrome. Do this without extra space.
 
+== ideas
 if it is negative, it cannot be palindrome
 
 if it has single digit, it will always be palindrome

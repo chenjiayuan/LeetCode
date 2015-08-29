@@ -1,6 +1,6 @@
 == LeetCode
-Those are my solutions to the LeetCode online judging platform (https://leetcode.com/). 
+Those are my solutions to the interview question proposed on LeetCode online judging platform (https://leetcode.com). 
 
-In order to improve my understanding of algorithms and data structures, I will also posting some trivial ideas about each question. Keep working and never give up!
+In order to improve my understanding of algorithms and data structures, I will also post trivial ideas on each question, or maybe multiple solutions to the same one. Although these stuffs are still challenging for me, I will keep working hard and never give up!
 
-For now, the solutions are mainly consist with Java, C, and Ruby codes. Those are the three languages that I am most familiar with (or willing to learn in depth). You are more than welcome to review my code and give suggestions.
+For now, the solutions are consist with Java, C, and Ruby. Those are the three languages that I am most familiar with (or willing to learn). Appreciate your review and comments!
