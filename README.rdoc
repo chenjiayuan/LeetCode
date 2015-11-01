@@ -1,9 +1,0 @@
-== LeetCode
-Those are my solutions to the interview question proposed on LeetCode online judging platform (https://leetcode.com). 
-
-In order to improve my understanding of algorithms and data structures, I will also post trivial ideas on each question, or maybe multiple solutions to the same one. Although these stuffs are still challenging for me, I will keep working hard and never give up!
-
-For now, the solutions are consist with Java, C, and Ruby. Those are the three languages that I am most familiar with (or willing to learn). Appreciate your review and comments!
-
-Update 9/5/2015:
-I've modified the organization of the problems. Problem descriptions are now in Solution.java. Because I am mainly focusing on solve problems in Java, due to the limited time frame.
